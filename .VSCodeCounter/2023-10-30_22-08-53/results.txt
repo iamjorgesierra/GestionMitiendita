@@ -1,0 +1,90 @@
+Date : 2023-10-30 22:08:53
+Directory : c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos
+Total : 45 files,  11565 codes, 328 comments, 356 blanks, all 12249 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| JSON           |          2 |      9,201 |          0 |          3 |      9,204 |
+| JavaScript JSX |         25 |      1,871 |        322 |        270 |      2,463 |
+| CSS            |         11 |        437 |          0 |         76 |        513 |
+| JavaScript     |          4 |         38 |          6 |          6 |         50 |
+| HTML           |          1 |         16 |          0 |          1 |         17 |
+| XML            |          2 |          2 |          0 |          0 |          2 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                              | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                 |         45 |     11,565 |        328 |        356 |     12,249 |
+| . (Files)                                                                                                         |          7 |      9,255 |          6 |         10 |      9,271 |
+| public                                                                                                            |          1 |          1 |          0 |          0 |          1 |
+| src                                                                                                               |         37 |      2,309 |        322 |        346 |      2,977 |
+| src (Files)                                                                                                       |          4 |         32 |          0 |         12 |         44 |
+| src\assets                                                                                                        |          1 |          1 |          0 |          0 |          1 |
+| src\components                                                                                                    |         17 |        930 |        317 |        172 |      1,419 |
+| src\components (Files)                                                                                            |         11 |        621 |        317 |        131 |      1,069 |
+| src\components\Login                                                                                              |          6 |        309 |          0 |         41 |        350 |
+| src\components\Login\InputControl                                                                                 |          2 |         33 |          0 |          5 |         38 |
+| src\components\Login\LoginAuth                                                                                    |          2 |         96 |          0 |         15 |        111 |
+| src\components\Login\Signup                                                                                       |          2 |        180 |          0 |         21 |        201 |
+| src\config                                                                                                        |          1 |          5 |          0 |          3 |          8 |
+| src\containers                                                                                                    |          3 |        587 |          0 |         60 |        647 |
+| src\pages                                                                                                         |          7 |        666 |          2 |         83 |        751 |
+| src\routers                                                                                                       |          1 |         39 |          3 |          7 |         49 |
+| src\style                                                                                                         |          3 |         49 |          0 |          9 |         58 |
++-------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                                                                                          | language       | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\.eslintrc.cjs                                            | JavaScript     |         16 |          0 |          1 |         17 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\index.html                                               | HTML           |         16 |          0 |          1 |         17 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\package-lock.json                                        | JSON           |      9,159 |          0 |          1 |      9,160 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\package.json                                             | JSON           |         42 |          0 |          2 |         44 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\postcss.config.js                                        | JavaScript     |          6 |          0 |          1 |          7 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\public\vite.svg                                          | XML            |          1 |          0 |          0 |          1 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\App.css                                              | CSS            |          6 |          0 |          3 |          9 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\App.jsx                                              | JavaScript JSX |         10 |          0 |          3 |         13 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\assets\react.svg                                     | XML            |          1 |          0 |          0 |          1 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\BotonAgregarCliente.jsx                   | JavaScript JSX |         34 |          0 |          6 |         40 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\BotonAgregarProductos.jsx                 | JavaScript JSX |         34 |          0 |          6 |         40 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\Dasboard.jsx                              | JavaScript JSX |         10 |          0 |          3 |         13 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\EditarClientes.jsx                        | JavaScript JSX |         89 |          0 |         16 |        105 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\EditarProductos.jsx                       | JavaScript JSX |         79 |          0 |         10 |         89 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\Login\InputControl\InpuControl.module.css | CSS            |         24 |          0 |          5 |         29 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\Login\InputControl\InputControl.jsx       | JavaScript JSX |          9 |          0 |          0 |          9 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\Login\LoginAuth\Login.module.css          | CSS            |         64 |          0 |          9 |         73 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\Login\LoginAuth\LoginFire.jsx             | JavaScript JSX |         32 |          0 |          6 |         38 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\Login\Signup\Signup.jsx                   | JavaScript JSX |        116 |          0 |         10 |        126 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\Login\Signup\Signup.module.css            | CSS            |         64 |          0 |         11 |         75 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\NavBar.css                                | CSS            |         80 |          0 |         13 |         93 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\NavBar.jsx                                | JavaScript JSX |         87 |          0 |         12 |         99 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\Pedidos.jsx                               | JavaScript JSX |        111 |          0 |         13 |        124 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\Prueba.jsx                                | JavaScript JSX |          0 |        317 |         45 |        362 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\RegistroPedido.jsx                        | JavaScript JSX |         90 |          0 |          7 |         97 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\gestionPedidos.css                        | CSS            |          7 |          0 |          0 |          7 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\config\axios.jsx                                     | JavaScript JSX |          5 |          0 |          3 |          8 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\containers\Header.jsx                                | JavaScript JSX |        221 |          0 |         23 |        244 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\containers\header.css                                | CSS            |        138 |          0 |         22 |        160 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\containers\headerClientes.jsx                        | JavaScript JSX |        228 |          0 |         15 |        243 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\index.css                                            | CSS            |          5 |          0 |          4 |          9 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\main.jsx                                             | JavaScript JSX |         11 |          0 |          2 |         13 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\pages\AddClientes.jsx                                | JavaScript JSX |        120 |          0 |         23 |        143 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\pages\AddProducts.jsx                                | JavaScript JSX |        101 |          2 |         18 |        121 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\pages\ConfirmacionPedido.jsx                         | JavaScript JSX |         31 |          0 |          4 |         35 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\pages\GestionPedidos.jsx                             | JavaScript JSX |         45 |          0 |          6 |         51 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\pages\ListadoPedidos.jsx                             | JavaScript JSX |        110 |          0 |          7 |        117 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\pages\Login.jsx                                      | JavaScript JSX |         73 |          0 |         12 |         85 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\pages\Productos.jsx                                  | JavaScript JSX |        186 |          0 |         13 |        199 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\routers\routes.jsx                                   | JavaScript JSX |         39 |          3 |          7 |         49 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\style\AddProducts.css                                | CSS            |         26 |          0 |          6 |         32 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\style\App.css                                        | CSS            |          0 |          0 |          2 |          2 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\style\ButtonEvents.css                               | CSS            |         23 |          0 |          1 |         24 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\tailwind.config.js                                       | JavaScript     |         11 |          5 |          2 |         18 |
+| c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\vite.config.js                                           | JavaScript     |          5 |          1 |          2 |          8 |
+| Total                                                                                                             |                |     11,565 |        328 |        356 |     12,249 |
++-------------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+

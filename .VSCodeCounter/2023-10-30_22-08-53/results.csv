@@ -1,0 +1,47 @@
+"filename", "language", "JavaScript", "CSS", "HTML", "JavaScript JSX", "JSON", "XML", "comment", "blank", "total"
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\.eslintrc.cjs", "JavaScript", 16, 0, 0, 0, 0, 0, 0, 1, 17
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\index.html", "HTML", 0, 0, 16, 0, 0, 0, 0, 1, 17
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\package-lock.json", "JSON", 0, 0, 0, 0, 9159, 0, 0, 1, 9160
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\package.json", "JSON", 0, 0, 0, 0, 42, 0, 0, 2, 44
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\postcss.config.js", "JavaScript", 6, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\public\vite.svg", "XML", 0, 0, 0, 0, 0, 1, 0, 0, 1
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\App.css", "CSS", 0, 6, 0, 0, 0, 0, 0, 3, 9
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\App.jsx", "JavaScript JSX", 0, 0, 0, 10, 0, 0, 0, 3, 13
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\assets\react.svg", "XML", 0, 0, 0, 0, 0, 1, 0, 0, 1
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\BotonAgregarCliente.jsx", "JavaScript JSX", 0, 0, 0, 34, 0, 0, 0, 6, 40
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\BotonAgregarProductos.jsx", "JavaScript JSX", 0, 0, 0, 34, 0, 0, 0, 6, 40
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\Dasboard.jsx", "JavaScript JSX", 0, 0, 0, 10, 0, 0, 0, 3, 13
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\EditarClientes.jsx", "JavaScript JSX", 0, 0, 0, 89, 0, 0, 0, 16, 105
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\EditarProductos.jsx", "JavaScript JSX", 0, 0, 0, 79, 0, 0, 0, 10, 89
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\Login\InputControl\InpuControl.module.css", "CSS", 0, 24, 0, 0, 0, 0, 0, 5, 29
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\Login\InputControl\InputControl.jsx", "JavaScript JSX", 0, 0, 0, 9, 0, 0, 0, 0, 9
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\Login\LoginAuth\Login.module.css", "CSS", 0, 64, 0, 0, 0, 0, 0, 9, 73
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\Login\LoginAuth\LoginFire.jsx", "JavaScript JSX", 0, 0, 0, 32, 0, 0, 0, 6, 38
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\Login\Signup\Signup.jsx", "JavaScript JSX", 0, 0, 0, 116, 0, 0, 0, 10, 126
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\Login\Signup\Signup.module.css", "CSS", 0, 64, 0, 0, 0, 0, 0, 11, 75
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\NavBar.css", "CSS", 0, 80, 0, 0, 0, 0, 0, 13, 93
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\NavBar.jsx", "JavaScript JSX", 0, 0, 0, 87, 0, 0, 0, 12, 99
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\Pedidos.jsx", "JavaScript JSX", 0, 0, 0, 111, 0, 0, 0, 13, 124
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\Prueba.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 317, 45, 362
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\RegistroPedido.jsx", "JavaScript JSX", 0, 0, 0, 90, 0, 0, 0, 7, 97
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\components\gestionPedidos.css", "CSS", 0, 7, 0, 0, 0, 0, 0, 0, 7
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\config\axios.jsx", "JavaScript JSX", 0, 0, 0, 5, 0, 0, 0, 3, 8
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\containers\Header.jsx", "JavaScript JSX", 0, 0, 0, 221, 0, 0, 0, 23, 244
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\containers\header.css", "CSS", 0, 138, 0, 0, 0, 0, 0, 22, 160
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\containers\headerClientes.jsx", "JavaScript JSX", 0, 0, 0, 228, 0, 0, 0, 15, 243
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\index.css", "CSS", 0, 5, 0, 0, 0, 0, 0, 4, 9
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\main.jsx", "JavaScript JSX", 0, 0, 0, 11, 0, 0, 0, 2, 13
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\pages\AddClientes.jsx", "JavaScript JSX", 0, 0, 0, 120, 0, 0, 0, 23, 143
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\pages\AddProducts.jsx", "JavaScript JSX", 0, 0, 0, 101, 0, 0, 2, 18, 121
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\pages\ConfirmacionPedido.jsx", "JavaScript JSX", 0, 0, 0, 31, 0, 0, 0, 4, 35
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\pages\GestionPedidos.jsx", "JavaScript JSX", 0, 0, 0, 45, 0, 0, 0, 6, 51
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\pages\ListadoPedidos.jsx", "JavaScript JSX", 0, 0, 0, 110, 0, 0, 0, 7, 117
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\pages\Login.jsx", "JavaScript JSX", 0, 0, 0, 73, 0, 0, 0, 12, 85
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\pages\Productos.jsx", "JavaScript JSX", 0, 0, 0, 186, 0, 0, 0, 13, 199
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\routers\routes.jsx", "JavaScript JSX", 0, 0, 0, 39, 0, 0, 3, 7, 49
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\style\AddProducts.css", "CSS", 0, 26, 0, 0, 0, 0, 0, 6, 32
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\style\App.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 2, 2
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\src\style\ButtonEvents.css", "CSS", 0, 23, 0, 0, 0, 0, 0, 1, 24
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\tailwind.config.js", "JavaScript", 11, 0, 0, 0, 0, 0, 5, 2, 18
+"c:\Users\Jorge Sierra\OneDrive\Escritorio\GestionPedidos\vite.config.js", "JavaScript", 5, 0, 0, 0, 0, 0, 1, 2, 8
+"Total", "-", 38, 437, 16, 1871, 9201, 2, 328, 356, 12249
